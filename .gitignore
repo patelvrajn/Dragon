@@ -1,4 +1,5 @@
 *.o
 *.d
 dragon
+test_dragon
 
